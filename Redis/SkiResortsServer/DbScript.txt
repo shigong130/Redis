@@ -1,0 +1,36 @@
+
+drop table ResortSeason;
+drop table ride;
+drop table Resort;
+
+create table Lift ( id int, vertical int, primary key (id) );
+insert into Lift(id, vertical) values (1, 1000);
+insert into Lift(id, vertical) values (2, 2000);
+insert into Lift(id, vertical) values (3, 3000);
+
+create table Resort ( id int, name varchar(50), primary key (id));
+insert into Resort(id, name) values (1, "SkiWorld1");
+insert into Resort(id, name) values (2, "SkiWorld2");
+insert into Resort(id, name) values (3, "SkiWorld3");
+insert into Resort(id, name) values (4 ,"SkiWorld4");
+
+
+Create table ResortSeason( 
+  resortId int, season int,  
+  FOREIGN KEY (resortId) REFERENCES Resort(id)
+);
+
+insert into ResortSeason(resortId, season) values (1,2018);
+insert into ResortSeason(resortId, season) values (1,2019);
+
+Create table Ride( 
+  skierId int, resortId int, season int, day int, liftId int, time int,
+  FOREIGN KEY (resortId) REFERENCES Resort(id),
+  FOREIGN KEY (liftId) REFERENCES Lift(id)
+);
+
+insert into Ride(skierId, resortId, season, day, liftId) values(1, 1, 2018, 1, 1);
+insert into Ride(skierId, resortId, season, day, liftId) values(1, 2, 2019, 1, 2);
+insert into Ride(skierId, resortId, season, day, liftId) values(2, 2, 2019, 1, 2);
+
+

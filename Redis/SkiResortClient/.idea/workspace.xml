@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0bcffee0-894a-4994-b4d2-27784787386e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SkiResortsServer/out/artifacts/SkiResortsServer_war/SkiResortsServer_war.war" beforeDir="false" afterPath="$PROJECT_DIR$/../SkiResortsServer/out/artifacts/SkiResortsServer_war/SkiResortsServer_war.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SkiResortsServer/src/main/java/com/neu/Util/TestUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SkiResortsServer/src/main/java/com/neu/Util/TestUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SkiResortsServer/src/main/java/com/neu/dao/RedisRedissonUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SkiResortsServer/src/main/java/com/neu/dao/RedisRedissonUtil.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1Rr58bljqXEU1ANuzIqt8SQEjN5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Assignment">
+    <configuration name="Assignment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment" />
+      <module name="skiresortsclient" />
+      <option name="PROGRAM_PARAMETERS" value="256 20000 20 40 http://52.23.184.215:8080/SkiResortsServer_war/" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AssignmentRead" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AssignmentRead" />
+      <module name="skiresortsclient" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HttpClientExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HttpClientExample" />
+      <module name="skiresortsclient" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Worker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Worker" />
+      <module name="skiresortsclient" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WorkerRead" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WorkerRead" />
+      <module name="skiresortsclient" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Assignment" />
+      <item itemvalue="Application.Worker" />
+      <item itemvalue="Application.WorkerRead" />
+      <item itemvalue="Application.HttpClientExample" />
+      <item itemvalue="Application.AssignmentRead" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Assignment" />
+        <item itemvalue="Application.AssignmentRead" />
+        <item itemvalue="Application.WorkerRead" />
+        <item itemvalue="Application.Worker" />
+        <item itemvalue="Application.HttpClientExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0bcffee0-894a-4994-b4d2-27784787386e" name="Default Changelist" comment="" />
+      <created>1570412215878</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570412215878</updated>
+      <workItem from="1570412218834" duration="5760000" />
+      <workItem from="1570583427961" duration="3011000" />
+      <workItem from="1570682147075" duration="4095000" />
+      <workItem from="1570745490593" duration="281000" />
+      <workItem from="1570823068610" duration="2601000" />
+      <workItem from="1570837036970" duration="5936000" />
+      <workItem from="1570846789290" duration="670000" />
+      <workItem from="1571696676331" duration="110000" />
+      <workItem from="1571719473535" duration="598000" />
+      <workItem from="1575935128364" duration="5808000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Worker.java</url>
+          <line>108</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/WorkerRead.java</url>
+          <line>110</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/WorkerRead.java</url>
+          <line>118</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Worker.java</url>
+          <line>145</line>
+          <properties class="Worker" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
